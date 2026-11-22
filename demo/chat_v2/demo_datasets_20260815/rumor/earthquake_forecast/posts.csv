@@ -1,0 +1,7 @@
+post_id,user_id,created_at,text,followers,label
+earthquake_forecast_p006,u_d0717ec7b616,2026-09-14 13:00:13,今天天气不错，出去走走,6000,normal
+earthquake_forecast_p001,u_0de51c304f2f,2026-09-14 16:43:57,专家预测：本周末本市将发生7级地震，请大家做好准备，转给家人！,1063,rumor
+earthquake_forecast_p002,u_b25941215e6f,2026-09-14 18:44:33,地震局内部人员透露，这两天可能有大地震，晚上别睡太死,3173,rumor
+earthquake_forecast_p004,u_aa5faf9d13f9,2026-09-15 10:44:22,地震局官方：未发布任何地震预报，请以官方渠道信息为准。,3160375,debunk
+earthquake_forecast_p005,u_4740a0f9fbe2,2026-09-15 11:02:07,家庭应急包应该准备哪些东西？,1192,normal
+earthquake_forecast_p003,u_cb30ab954ee0,2026-09-15 13:05:27,【辟谣】市地震局：目前科学上无法准确预测地震，网传消息不实。,3791150,debunk
