@@ -2,7 +2,7 @@
 
 > 基于开源项目 [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)（RUC-DataLab，MIT License）二次开发的谣言传播分析 Agent。
 >
-> 当前进展：已完成数据准备，包括统一的帖子表和转发关系表字段、Weibo 和 PHEME 数据集转换脚本，以及 3 个模拟谣言事件（见 `demo/chat_v2/rumor/` 和 `demo/chat_v2/demo_datasets_20260815/rumor/`）。场景化分析入口和评测集正在开发中。
+> 当前进展：已完成数据准备、场景化分析入口和评测集，包括统一的帖子表和转发关系表字段、Weibo 和 PHEME 数据集转换脚本，谣言事件存放如下（见 `demo/chat_v2/rumor/` 和 `demo/chat_v2/demo_datasets_20260815/rumor/`）。
 >
 > 以下为 DeepAnalyze 原项目说明。
 
